@@ -7,9 +7,6 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-<!-- [![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo/build.yml)](https://github.com/username/repo/actions)
-[![Coverage Status](https://coveralls.io/repos/github/username/repo/badge.svg?branch=main)](https://coveralls.io/github/username/repo?branch=main) -->
-
 PDIFY is a cross-browser extension where you can make a pdf from images or edit it in your browser from your favorite social media image without downloading or uploading in a minute.
 
 ## Table of Contents
@@ -19,7 +16,6 @@ PDIFY is a cross-browser extension where you can make a pdf from images or edit 
 -   [Installation](#installation)
     -   [Online Installation](#online-installation)
     -   [Local Installation](#local-installation)
-        -   [Chrome](#chrome)
 -   [Useages](#useages)
 -   [Developed By](#developed-by)
 -   [License](#license)
@@ -56,8 +52,6 @@ PDIFY is a cross-browser extension where you can make a pdf from images or edit 
 </div>
 
 ### Local Installation
-
-#### Chrome
 
 1. Download pdfiy-v1.zip file from this repository.
 2. Unzip the zip file.
