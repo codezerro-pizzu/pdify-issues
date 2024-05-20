@@ -23,10 +23,10 @@ PDIFY is a cross-browser extension where you can make a pdf from images or edit 
 
 ## Features
 
--   Making a PDF in a minute.
--   Enhance your PDF with annotation tools.
--   Creating a pdf with lots of pdf options.
--   Creating a pdf with your pdf options preference.
+:arrow_forward: Making a PDF in a minute.
+:arrow_forward: Enhance your PDF with annotation tools.
+:arrow_forward: Creating a pdf with lots of pdf options.
+:arrow_forward: Creating a pdf with your pdf options preference.
 
 ## Installation
 
@@ -71,8 +71,12 @@ PDIFY is a cross-browser extension where you can make a pdf from images or edit 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+:memo: This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 > ©️ [pizzu soft](https://github.com/codezerro-pizzu)
 
 ## Acknowledgements
+
+:clap:_Special thanks for testing_
+
+-   _[@belel-bh](https://github.com/belal-bh)_
