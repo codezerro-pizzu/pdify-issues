@@ -1,7 +1,9 @@
-<div style="display:flex; justify-content:space-around; align-items:center;">
+<!-- <div style="display:flex; justify-content:space-around; align-items:center;">
 <img src="./resources/pdify-icon.png" alt="pdify logo" style="width:128px; height:128px" />
 <p style="font-size:120px; font-weight:700; color:red;  text-decoration:underline;">PDIFY</p>
-</div>
+</div> -->
+
+![pdify banner](./resources/github-banner-icon.png)
 
 ---
 
@@ -11,15 +13,16 @@ PDIFY is a cross-browser extension where you can make a pdf from images or edit 
 
 ## Table of Contents
 
--   [Table of Contents](#table-of-contents)
--   [Features](#features)
--   [Installation](#installation)
-    -   [Online Installation](#online-installation)
-    -   [Local Installation](#local-installation)
--   [Useages](#useages)
--   [Developed By](#developed-by)
--   [License](#license)
--   [Acknowledgements](#acknowledgements)
+- [Table of Contents](#table-of-contents)
+- [Features](#features)
+- [Installation](#installation)
+  - [Online Installation](#online-installation)
+  - [Local Installation](#local-installation)
+- [Useages](#useages)
+- [Contribution](#contribution)
+- [Developed By](#developed-by)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -62,6 +65,8 @@ PDIFY is a cross-browser extension where you can make a pdf from images or edit 
 
 [![YT](https://img.shields.io/youtube/views/fGWp2MM-BIU)](https://www.youtube.com/watch?v=fGWp2MM-BIU)
 
+## Contribution
+
 ## Developed By
 
 <div style="display:flex; align-items:center; gap:0.5rem">
@@ -79,4 +84,4 @@ PDIFY is a cross-browser extension where you can make a pdf from images or edit 
 
 :clap:_Special thanks for testing_
 
--   _[@belel-bh](https://github.com/belal-bh)_
+- _[@belel-bh](https://github.com/belal-bh)_
