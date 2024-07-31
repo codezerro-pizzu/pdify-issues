@@ -42,7 +42,7 @@ PDIFY is a cross-browser extension where you can make a pdf from images or edit 
 <div style="display:flex; flex-direction:column; justify-content:space-around; align-items:center; gap:15px;">
 <img src="./resources/chrome-web-store.png" alt="chrome web store" style="height: 100px; width:100px;"/>
 
-[Chrome Web Store](https://chromewebstore.google.com/)
+[Chrome Web Store](https://chromewebstore.google.com/detail/pdify-image-to-pdf-edit-a/jefldaehieliinjhjfjbkgongiljnpji)
 
 </div>
 
@@ -78,7 +78,7 @@ PDIFY is a cross-browser extension where you can make a pdf from images or edit 
 
 :memo: This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-> ©️ [pizzu soft](https://github.com/codezerro-pizzu)
+> ©️ [pizzu soft](https://github.com/pizzusoft)
 
 ## Acknowledgements
 
