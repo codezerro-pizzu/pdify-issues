@@ -13,16 +13,16 @@ PDIFY is a cross-browser extension where you can make a pdf from images or edit 
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Features](#features)
-- [Installation](#installation)
-  - [Online Installation](#online-installation)
-  - [Local Installation](#local-installation)
-- [Useages](#useages)
-- [Contribution](#contribution)
-- [Developed By](#developed-by)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+-   [Table of Contents](#table-of-contents)
+-   [Features](#features)
+-   [Installation](#installation)
+    -   [Online Installation](#online-installation)
+    -   [Local Installation](#local-installation)
+-   [Useages](#useages)
+-   [Contribution](#contribution)
+-   [Developed By](#developed-by)
+-   [License](#license)
+-   [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -49,7 +49,7 @@ PDIFY is a cross-browser extension where you can make a pdf from images or edit 
 <div style="display:flex; flex-direction:column; justify-content:space-around; align-items:center;  gap:15px;">
 <img src="./resources/ms-edge-add-ons.png" alt="ms edge add-ons" style="height: 100px; width:100px;"/>
 
-[Edge Add-ons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home)
+[Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/pdify-image-to-pdf-edi/adppiipkibhjnjjgahmeffimjaidlebn)
 
 </div>
 </div>
@@ -84,4 +84,4 @@ PDIFY is a cross-browser extension where you can make a pdf from images or edit 
 
 :clap:_Special thanks for testing_
 
-- _[@belel-bh](https://github.com/belal-bh)_
+-   _[@belel-bh](https://github.com/belal-bh)_
