@@ -63,7 +63,7 @@ PDIFY is a cross-browser extension where you can make a pdf from images or edit 
 
 ## Useages
 
-[![YT](https://img.shields.io/youtube/views/fGWp2MM-BIU)](https://www.youtube.com/watch?v=fGWp2MM-BIU)
+[![YT](https://img.shields.io/youtube/views/fGWp2MM-BIU)](https://www.youtube.com/watch?v=UnWEhw6iVDo)
 
 ## Contribution
 
